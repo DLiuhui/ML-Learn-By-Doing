@@ -6,6 +6,6 @@
 ## Description
 - Collection of ML courses/tasks/homework
 or the course.
-- Implementing some ML algorithm and models.  
+- Implementing some ML algorithm and models.
 ## Contents
 - [KNN(k-nearest neighbors)](https://github.com/DLiuhui/ML-in-action/tree/master/Part2_KNN)

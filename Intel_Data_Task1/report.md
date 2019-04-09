@@ -48,7 +48,7 @@ After reading, the raw is gotten. Using api from pandas library to get more deta
 </p>
 
 <p style="text-align:center;margin:1">
-<img src="1.png" height=300 width=400>
+<img src="./result_pic/1.png" height=300 width=400>
 </p>
 <p style="text-align:center;margin:0">
 Figure 1: Data information
@@ -67,7 +67,7 @@ At the same time, with the help of orignial data file, we could have a rough und
 </p>
 
 <p style="text-align:center;margin:1">
-<img src="2.png" height=300 width=600>
+<img src="./result_pic/2.png" height=300 width=600>
 </p>
 <p style="text-align:center;margin:0">
 Figure 2: Data statistical information
@@ -82,7 +82,7 @@ Using api to calculate the correlation coefficient of each pair of data, and dra
 </p>
 
 <p style="text-align:center;margin:1">
-<img src="3.png" height=500 width=500>
+<img src="./result_pic/3.png" height=500 width=500>
 </p>
 <p style="text-align:center;margin:0">
 Figure 3: Correlation matrix
@@ -93,7 +93,7 @@ It’s obviously illustrated that: There is strong positive correlation between 
 </p>
 
 <p style="text-align:center;margin:1">
-<img src="4.png" height=600 width=600>
+<img src="./result_pic/4.png" height=600 width=600>
 </p>
 <p style="text-align:center;margin:0">
 Figure 4: Histogram
@@ -239,7 +239,7 @@ rmse = np.sqrt(mse)
 ```
 
 <p style="text-align:center;margin:1">
-<img src="5.png" height=400 width=500>
+<img src="./result_pic/5.png" height=400 width=500>
 </p>
 <p style="text-align:center;margin:0">
 Figure 5: Regression
@@ -254,14 +254,14 @@ Maybe linear model is not fit to such data set. The mes and the accuracy of clas
 </p>
 
 <p style="text-align:center;margin:1">
-<img src="6.png" height=100 width=300>
+<img src="./result_pic/6.png" height=100 width=300>
 </p>
 <p style="text-align:center;margin:0">
 Figure 6: Result of regression
 </p>
 
 <p style="text-align:center;margin:1">
-<img src="7.png" height=75 width=200>
+<img src="./result_pic/7.png" height=75 width=200>
 </p>
 <p style="text-align:center;margin:0">
 Figure 7: Result of classification
