@@ -19,7 +19,7 @@
 </p>
 
 <p style="text-align:center;margin:1">
-图片<img>
+<img src="./result_pic/7.png" height=75 width=200>
 </p>
 <p style="text-align:center;margin:0">
 Figure 1: 图片注释
